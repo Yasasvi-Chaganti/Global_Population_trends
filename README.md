@@ -37,9 +37,7 @@ The columns from the metadata:
 
 
 #### AUTHOR           
-marwa Osman: marwaosman9975@gmail.com    
+Yasasvi Chaganti  
 
-👉 [LinkedIn](https://www.linkedin.com/in/marwa-osman-00190b222/)
-
-👉 [GitHub](https://github.com/marwa9975)
+👉 [LinkedIn](https://www.linkedin.com/in/yasasvi-chaganti/)
 
